@@ -8,7 +8,7 @@
 
 This repository contains all the Java code I wrote during my Java course and self‑practice sessions. It covers fundamental to intermediate topics, including syntax, OOP principles, collections, exception handling, file I/O, multithreading, and basic data structures & algorithms. The goal is to maintain a clean, well‑commented reference for future use and to track my learning progress.
 
--
+
 
 ## 📂 Folder Structure
 java-practice/ │ ├── basics/ # Variables, datatypes, operators, control flow ├── oop/ # Classes, objects, inheritance, polymorphism, encapsulation, abstraction ├── arrays/ # 1D & 2D arrays, sorting, searching ├── strings/ # String manipulation, StringBuilder, StringBuffer ├── collections/ # ArrayList, HashMap, HashSet, LinkedList, etc. ├── exception/ # Try-catch, throw, throws, custom exceptions ├── fileio/ # Reading/writing files, serialization ├── multithreading/ # Threads, runnable, synchronization ├── datastructures/ # Stack, Queue, LinkedList (custom implementations), Trees ├── algorithms/ # Sorting (bubble, merge, quick), searching (binary), recursion ├── patterns/ # Number, star, alphabet patterns ├── projects/ # Mini projects (calculator, student management, ATM, etc.) └── README.md
